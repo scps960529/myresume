@@ -1,0 +1,10 @@
+12-02 13:42 werkzeug     INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+12-02 13:43 werkzeug     INFO     172.19.0.5 - - [02/Dec/2018 13:43:10] "POST /menu HTTP/1.1" 200 -
+12-02 13:43 werkzeug     INFO     172.19.0.5 - - [02/Dec/2018 13:43:21] "POST /user HTTP/1.1" 200 -
+12-02 17:20 werkzeug     INFO     172.19.0.5 - - [02/Dec/2018 17:20:09] "POST /user HTTP/1.1" 200 -
+12-02 17:24 werkzeug     INFO     172.19.0.5 - - [02/Dec/2018 17:24:29] "POST /user HTTP/1.1" 200 -
+12-02 17:37 werkzeug     INFO     172.19.0.5 - - [02/Dec/2018 17:37:19] "POST /user HTTP/1.1" 200 -
+12-02 17:39 werkzeug     INFO     172.19.0.5 - - [02/Dec/2018 17:39:47] "POST /user HTTP/1.1" 200 -
+12-02 17:42 werkzeug     INFO     172.19.0.5 - - [02/Dec/2018 17:42:34] "POST /user HTTP/1.1" 200 -
+12-02 17:45 werkzeug     INFO     172.19.0.5 - - [02/Dec/2018 17:45:52] "POST /user HTTP/1.1" 200 -
+12-02 17:46 werkzeug     INFO     172.19.0.5 - - [02/Dec/2018 17:46:24] "POST /user HTTP/1.1" 200 -
